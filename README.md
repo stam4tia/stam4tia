@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Stamatia
+<H1> ❆ Hi, I’m Stamatia </H1>
+
 - 👀 I’m interested in web and game development
 - 🌱 I’m currently learning C# and 3D modeling
 - 📫 How to reach me: 2tamatia@gmail.com
 - 😄 Pronouns: she/her
-- ❤️ Likes: the color pink, fashion, cats, pixel art, strawberries, stars, programming, robots, animation, frutiger aero, the cyber aesthetic, cinnamon rolls, the sky, flowers, legos, lava lamps...
+- ❤️ Likes: the color pink, fashion, cats, pixel art, strawberries, stars, programming, robots, animation, frutiger aero, cinnamon rolls, the sky, flowers, legos, lava lamps...
   
 
 <!---
