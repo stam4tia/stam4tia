@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in web and game development
 - 🌱 I’m currently learning 3D modeling and C#
-- 📫 How to reach me: 2tamatia@gmail.com
+- 🖁 How to reach me: 2tamatia@gmail.com
 - 🩷 Likes: the color pink, fashion, pixel art, programming, robots, cats, animation, frutiger aero, skeuomorphism, stars, strawberries, cinnamon rolls, the sky, flowers, legos, lava lamps...
   
 
