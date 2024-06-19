@@ -1,7 +1,7 @@
 <H1> ❆ Hi, I’m Stamatia </H1>
 
-- 👀 I’m interested in web and game development
-- 🌱 I’m currently learning 3D modeling and C#
+- 👀 I’m interested in web development and cyber security
+- 🌱 I’m currently learning about cyber security
 - 🖁 How to reach me: stamatiad4@gmail.com
 - 🩷 Likes: the color pink, fashion, pixel art, programming, robots, cats, animation, frutiger aero, skeuomorphism, stars, strawberries, cinnamon rolls, the sky, flowers, legos, lava lamps...
   
