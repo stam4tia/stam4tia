@@ -1,6 +1,6 @@
 <H1> ❆ Hi, I’m Stamatia </H1>
 
-- 👀 I’m interested in UI/UX design, web development, and cyber security
+- 👀 I’m interested in UX/UI design, web development, and cyber security
 - 🌱 I’m currently learning about cyber security
 - 🖁 How to reach me: stamatiad4@gmail.com
 - 🩷 Likes: the color pink, fashion, pixel art, programming, robots, cats, animation, frutiger aero, skeuomorphism, stars, strawberries, cinnamon rolls, the sky, flowers, legos, lava lamps...
